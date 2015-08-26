@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting id="emulationstation_path" type="executable" label="Path to EmulationStation executable" default="/usr/bin/emulationstation" />
+    </category>
+</settings>
